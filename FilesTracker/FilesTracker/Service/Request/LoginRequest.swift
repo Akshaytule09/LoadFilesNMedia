@@ -35,6 +35,3 @@ struct LoginRequest: DataRequest {
         return response
     }
 }
-
-//User : iosuser@toke.com
-//password: temp123
